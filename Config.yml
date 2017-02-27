@@ -1,0 +1,9 @@
+Settings:
+  Prefix: '&7[&cWallGen&7]: '
+  WallGen-Item-Options:
+    Item: '327'
+    Name: '&7[&cWallGen&7]>> &6%Block%'
+    Lore:
+      - '&e&lInformation&7:'
+      - '&7When you right click this item on a edge'
+      - '&7it will make a wall for you instantly.'

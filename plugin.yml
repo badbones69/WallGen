@@ -1,0 +1,9 @@
+name: WallGen
+author: BadBones69
+main: me.BadBones69.wallgen.Main
+version: 1.0
+description: Creates a wall where you place the wallgen item.
+commands:
+  wallgenerator:
+    description: Gives you a wallgen item.
+    aliases: [wallgen, wg]
